@@ -1,0 +1,4 @@
+Juan=91.00
+Jose=48.25
+Pedro=82.25
+Carlos=75.25
